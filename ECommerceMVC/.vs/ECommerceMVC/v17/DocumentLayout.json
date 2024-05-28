@@ -3,36 +3,28 @@
   "WorkspaceRootPath": "D:\\Github\\ASP.NET-Core-8-MVC\\ECommerceMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1CA607DA-C6B5-4833-8E5A-70954E992B80}|ECommerceMVC\\ECommerceMVC.csproj|d:\\github\\asp.net-core-8-mvc\\ecommercemvc\\ecommercemvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1CA607DA-C6B5-4833-8E5A-70954E992B80}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CA607DA-C6B5-4833-8E5A-70954E992B80}|ECommerceMVC\\ECommerceMVC.csproj|d:\\github\\asp.net-core-8-mvc\\ecommercemvc\\ecommercemvc\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1CA607DA-C6B5-4833-8E5A-70954E992B80}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CA607DA-C6B5-4833-8E5A-70954E992B80}|ECommerceMVC\\ECommerceMVC.csproj|d:\\github\\asp.net-core-8-mvc\\ecommercemvc\\ecommercemvc\\data\\hshop2023context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CA607DA-C6B5-4833-8E5A-70954E992B80}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\data\\hshop2023context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CA607DA-C6B5-4833-8E5A-70954E992B80}|ECommerceMVC\\ECommerceMVC.csproj|d:\\github\\asp.net-core-8-mvc\\ecommercemvc\\ecommercemvc\\controllers\\hanghoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CA607DA-C6B5-4833-8E5A-70954E992B80}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\controllers\\hanghoascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1CA607DA-C6B5-4833-8E5A-70954E992B80}|ECommerceMVC\\ECommerceMVC.csproj|d:\\github\\asp.net-core-8-mvc\\ecommercemvc\\ecommercemvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1CA607DA-C6B5-4833-8E5A-70954E992B80}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1CA607DA-C6B5-4833-8E5A-70954E992B80}|ECommerceMVC\\ECommerceMVC.csproj|d:\\github\\asp.net-core-8-mvc\\ecommercemvc\\ecommercemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1CA607DA-C6B5-4833-8E5A-70954E992B80}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CA607DA-C6B5-4833-8E5A-70954E992B80}|ECommerceMVC\\ECommerceMVC.csproj|d:\\github\\asp.net-core-8-mvc\\ecommercemvc\\ecommercemvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1CA607DA-C6B5-4833-8E5A-70954E992B80}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{1CA607DA-C6B5-4833-8E5A-70954E992B80}|ECommerceMVC\\ECommerceMVC.csproj|d:\\github\\asp.net-core-8-mvc\\ecommercemvc\\ecommercemvc\\views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CA607DA-C6B5-4833-8E5A-70954E992B80}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1CA607DA-C6B5-4833-8E5A-70954E992B80}|ECommerceMVC\\ECommerceMVC.csproj|d:\\github\\asp.net-core-8-mvc\\ecommercemvc\\ecommercemvc\\ecommercemvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1CA607DA-C6B5-4833-8E5A-70954E992B80}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\ecommercemvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{1CA607DA-C6B5-4833-8E5A-70954E992B80}|ECommerceMVC\\ECommerceMVC.csproj|d:\\github\\asp.net-core-8-mvc\\ecommercemvc\\ecommercemvc\\views\\shared\\components\\menuloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1CA607DA-C6B5-4833-8E5A-70954E992B80}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\shared\\components\\menuloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA607DA-C6B5-4833-8E5A-70954E992B80}|ECommerceMVC\\ECommerceMVC.csproj|d:\\github\\asp.net-core-8-mvc\\ecommercemvc\\ecommercemvc\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA607DA-C6B5-4833-8E5A-70954E992B80}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA607DA-C6B5-4833-8E5A-70954E992B80}|ECommerceMVC\\ECommerceMVC.csproj|d:\\github\\asp.net-core-8-mvc\\ecommercemvc\\ecommercemvc\\viewcomponents\\menuloaiviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA607DA-C6B5-4833-8E5A-70954E992B80}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\viewcomponents\\menuloaiviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CA607DA-C6B5-4833-8E5A-70954E992B80}|ECommerceMVC\\ECommerceMVC.csproj|d:\\github\\asp.net-core-8-mvc\\ecommercemvc\\ecommercemvc\\viewmodels\\menuloaivm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CA607DA-C6B5-4833-8E5A-70954E992B80}|ECommerceMVC\\ECommerceMVC.csproj|solutionrelative:ecommercemvc\\viewmodels\\menuloaivm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,8 +34,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\ASP.NET-Core-8-MVC\\ECommerceMVC\\ECommerceMVC\\Program.cs",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Program.cs",
+              "ToolTip": "D:\\Github\\ASP.NET-Core-8-MVC\\ECommerceMVC\\ECommerceMVC\\Program.cs",
+              "RelativeToolTip": "ECommerceMVC\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T10:31:14.03Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -62,103 +67,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\Github\\ASP.NET-Core-8-MVC\\ECommerceMVC\\ECommerceMVC\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "ECommerceMVC\\Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\Github\\ASP.NET-Core-8-MVC\\ECommerceMVC\\ECommerceMVC\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "ECommerceMVC\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-28T05:14:45.687Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "index.html",
-              "DocumentMoniker": "D:\\Github\\ASP.NET-Core-8-MVC\\ECommerceMVC\\ECommerceMVC\\wwwroot\\index.html",
-              "RelativeDocumentMoniker": "ECommerceMVC\\wwwroot\\index.html",
-              "ToolTip": "D:\\Github\\ASP.NET-Core-8-MVC\\ECommerceMVC\\ECommerceMVC\\wwwroot\\index.html",
-              "RelativeToolTip": "ECommerceMVC\\wwwroot\\index.html",
-              "ViewState": "AQIAAI0EAAAAAAAAAAAAAK4EAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-05-28T05:12:17.7Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Github\\ASP.NET-Core-8-MVC\\ECommerceMVC\\ECommerceMVC\\Views\\HangHoa\\Index.cshtml",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Views\\HangHoa\\Index.cshtml",
+              "ToolTip": "D:\\Github\\ASP.NET-Core-8-MVC\\ECommerceMVC\\ECommerceMVC\\Views\\HangHoa\\Index.cshtml",
+              "RelativeToolTip": "ECommerceMVC\\Views\\HangHoa\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T10:00:10.653Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Github\\ASP.NET-Core-8-MVC\\ECommerceMVC\\ECommerceMVC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ECommerceMVC\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Github\\ASP.NET-Core-8-MVC\\ECommerceMVC\\ECommerceMVC\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ECommerceMVC\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T23:38:21.762Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "HangHoasController.cs",
-              "DocumentMoniker": "D:\\Github\\ASP.NET-Core-8-MVC\\ECommerceMVC\\ECommerceMVC\\Controllers\\HangHoasController.cs",
-              "RelativeDocumentMoniker": "ECommerceMVC\\Controllers\\HangHoasController.cs",
-              "ToolTip": "D:\\Github\\ASP.NET-Core-8-MVC\\ECommerceMVC\\ECommerceMVC\\Controllers\\HangHoasController.cs",
-              "RelativeToolTip": "ECommerceMVC\\Controllers\\HangHoasController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA+AAAA",
+              "Title": "HangHoaController.cs",
+              "DocumentMoniker": "D:\\Github\\ASP.NET-Core-8-MVC\\ECommerceMVC\\ECommerceMVC\\Controllers\\HangHoaController.cs",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Controllers\\HangHoaController.cs",
+              "ToolTip": "D:\\Github\\ASP.NET-Core-8-MVC\\ECommerceMVC\\ECommerceMVC\\Controllers\\HangHoaController.cs",
+              "RelativeToolTip": "ECommerceMVC\\Controllers\\HangHoaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T23:34:50.961Z",
+              "WhenOpened": "2024-05-28T09:59:46.954Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Hshop2023Context.cs",
-              "DocumentMoniker": "D:\\Github\\ASP.NET-Core-8-MVC\\ECommerceMVC\\ECommerceMVC\\Data\\Hshop2023Context.cs",
-              "RelativeDocumentMoniker": "ECommerceMVC\\Data\\Hshop2023Context.cs",
-              "ToolTip": "D:\\Github\\ASP.NET-Core-8-MVC\\ECommerceMVC\\ECommerceMVC\\Data\\Hshop2023Context.cs",
-              "RelativeToolTip": "ECommerceMVC\\Data\\Hshop2023Context.cs",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAADkAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T23:29:22.869Z",
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\Github\\ASP.NET-Core-8-MVC\\ECommerceMVC\\ECommerceMVC\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
+              "RelativeDocumentMoniker": "ECommerceMVC\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
+              "ToolTip": "D:\\Github\\ASP.NET-Core-8-MVC\\ECommerceMVC\\ECommerceMVC\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
+              "RelativeToolTip": "ECommerceMVC\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T09:48:39.134Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Github\\ASP.NET-Core-8-MVC\\ECommerceMVC\\ECommerceMVC\\Program.cs",
-              "RelativeDocumentMoniker": "ECommerceMVC\\Program.cs",
-              "ToolTip": "D:\\Github\\ASP.NET-Core-8-MVC\\ECommerceMVC\\ECommerceMVC\\Program.cs",
-              "RelativeToolTip": "ECommerceMVC\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Title": "MenuLoaiVM.cs",
+              "DocumentMoniker": "D:\\Github\\ASP.NET-Core-8-MVC\\ECommerceMVC\\ECommerceMVC\\ViewModels\\MenuLoaiVM.cs",
+              "RelativeDocumentMoniker": "ECommerceMVC\\ViewModels\\MenuLoaiVM.cs",
+              "ToolTip": "D:\\Github\\ASP.NET-Core-8-MVC\\ECommerceMVC\\ECommerceMVC\\ViewModels\\MenuLoaiVM.cs",
+              "RelativeToolTip": "ECommerceMVC\\ViewModels\\MenuLoaiVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T23:28:30.55Z"
+              "WhenOpened": "2024-05-28T09:24:48.378Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Github\\ASP.NET-Core-8-MVC\\ECommerceMVC\\ECommerceMVC\\appsettings.json",
-              "RelativeDocumentMoniker": "ECommerceMVC\\appsettings.json",
-              "ToolTip": "D:\\Github\\ASP.NET-Core-8-MVC\\ECommerceMVC\\ECommerceMVC\\appsettings.json",
-              "RelativeToolTip": "ECommerceMVC\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-27T23:23:43.48Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ECommerceMVC.csproj",
-              "DocumentMoniker": "D:\\Github\\ASP.NET-Core-8-MVC\\ECommerceMVC\\ECommerceMVC\\ECommerceMVC.csproj",
-              "RelativeDocumentMoniker": "ECommerceMVC\\ECommerceMVC.csproj",
-              "ToolTip": "D:\\Github\\ASP.NET-Core-8-MVC\\ECommerceMVC\\ECommerceMVC\\ECommerceMVC.csproj",
-              "RelativeToolTip": "ECommerceMVC\\ECommerceMVC.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-27T23:22:08.212Z"
+              "DocumentIndex": 4,
+              "Title": "MenuLoaiViewComponent.cs",
+              "DocumentMoniker": "D:\\Github\\ASP.NET-Core-8-MVC\\ECommerceMVC\\ECommerceMVC\\ViewComponents\\MenuLoaiViewComponent.cs",
+              "RelativeDocumentMoniker": "ECommerceMVC\\ViewComponents\\MenuLoaiViewComponent.cs",
+              "ToolTip": "D:\\Github\\ASP.NET-Core-8-MVC\\ECommerceMVC\\ECommerceMVC\\ViewComponents\\MenuLoaiViewComponent.cs",
+              "RelativeToolTip": "ECommerceMVC\\ViewComponents\\MenuLoaiViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:15:47.066Z",
+              "EditorCaption": ""
             }
           ]
         }
