@@ -39,3 +39,12 @@ app.Run();
 //Scaffold-DbContext "chuỗi kết nối" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Data -f
 // Muốn xuất dữ liệu ra thư mục Data: -OutputDir Data
 // -f: Database first thì tất cả mọi thay đổi đều đi từ databases
+
+
+
+//TẠO MENU HÀNG HÓA
+//Controllers -> HangHoaController
+//Tạo ViewComponents -> MenuLoaiViewComponent
+//Tạo ViewModels -> MenuLoaiVM
+//Views -> HangHoa -> Index.cshtml
+//Shared -> Component -> MenuLoai -> Default.cshtml
