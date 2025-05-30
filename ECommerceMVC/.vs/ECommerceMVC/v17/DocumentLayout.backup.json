@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -55,6 +55,18 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuLoaiVM.cs",
+              "DocumentMoniker": "D:\\Github\\ASP.NET-Core-8-MVC\\ECommerceMVC\\ECommerceMVC\\ViewModels\\MenuLoaiVM.cs",
+              "RelativeDocumentMoniker": "ECommerceMVC\\ViewModels\\MenuLoaiVM.cs",
+              "ToolTip": "D:\\Github\\ASP.NET-Core-8-MVC\\ECommerceMVC\\ECommerceMVC\\ViewModels\\MenuLoaiVM.cs",
+              "RelativeToolTip": "ECommerceMVC\\ViewModels\\MenuLoaiVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T09:24:48.378Z"
             },
             {
               "$type": "Document",
@@ -124,40 +136,10 @@
               "RelativeDocumentMoniker": "ECommerceMVC\\Program.cs",
               "ToolTip": "D:\\Github\\ASP.NET-Core-8-MVC\\ECommerceMVC\\ECommerceMVC\\Program.cs",
               "RelativeToolTip": "ECommerceMVC\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABdAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-28T10:31:14.03Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MenuLoaiVM.cs",
-              "DocumentMoniker": "D:\\Github\\ASP.NET-Core-8-MVC\\ECommerceMVC\\ECommerceMVC\\ViewModels\\MenuLoaiVM.cs",
-              "RelativeDocumentMoniker": "ECommerceMVC\\ViewModels\\MenuLoaiVM.cs",
-              "ToolTip": "D:\\Github\\ASP.NET-Core-8-MVC\\ECommerceMVC\\ECommerceMVC\\ViewModels\\MenuLoaiVM.cs",
-              "RelativeToolTip": "ECommerceMVC\\ViewModels\\MenuLoaiVM.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-28T09:24:48.378Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 1524,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             }
           ]
         }
